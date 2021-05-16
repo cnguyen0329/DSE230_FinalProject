@@ -1,5 +1,7 @@
 # Ignore the Jupyter Notebook checkpoints 
 .ipynb_checkpoints
+**/*.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
 
 # Ignore .txt file - too big to store on Git
 *.txt
