@@ -5,6 +5,8 @@ Final Project for DSE230 - Spring 2021
 Individual household electric power consumption Data Set from UCI Machine Learning 
 https://archive.ics.uci.edu/ml/datasets/Individual+household+electric+power+consumption
 
+This data set consists of electricity consumption by one French household, located in Sceaux, France, over the span of nearly 4 years (Dec 2006 - Nov 2010). The data set has 2075259 rows of data and 9 attributes, with each row consisting of one minute of recorded data. 
+
 ## Project Description
 To use scalable analytic platforms like Dask and Pyspark paired with Hadoop to compute basic machine learning processes. 
 
