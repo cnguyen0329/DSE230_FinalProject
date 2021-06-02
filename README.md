@@ -13,7 +13,7 @@ To use scalable analytic platforms like Dask and Pyspark paired with Hadoop to c
 For our project we will be using Dask as the primary scalable analytic platform as there are many similar libraries with sklearn and it seems to perform a bit faster compared to Pyspark.
 
 ### Hardware used
-This project's scope will be limited to our two personal laptops: Dell XPS 13 9360 with Ubuntu VM (Intel i7, 8 GB ram) and Dell XPS 13 9360 Developer Edition (Intel i7, 16 GB ram).
+This project's scope will be limited to our two personal laptops: Dell XPS 13 9360 with Ubuntu VM (Intel i7, 8 GB ram) and Dell XPS 13 9360 Developer Edition (Intel i5, 16 GB ram).
 
 ### Software used
 * dask 2.20.0
