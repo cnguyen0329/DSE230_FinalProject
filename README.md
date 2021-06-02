@@ -16,8 +16,8 @@ For our project we will be using Dask as the primary scalable analytic platform 
 This project's scope will be limited to our two personal laptops: Dell XPS 13 9360 with Ubuntu VM (Intel i7, 8 GB ram) and Dell XPS 13 Developer Edition (Intel i7, 16 GB ram).
 
 ### Software used
-dask 2.20.0
-numpy 1.19.5
-pandas 1.0.5
-matplotlib 3.2.2
-seaborn 0.10.1
+* dask 2.20.0
+* numpy 1.19.5
+* pandas 1.0.5
+* matplotlib 3.2.2
+* seaborn 0.10.1
