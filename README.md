@@ -16,7 +16,7 @@ For our project we will be using Dask as the primary scalable analytic platform 
 This project's scope will be limited to our two personal laptops: Dell XPS 13 9360 with Ubuntu VM (Intel i7, 8 GB ram) and Dell XPS 13 9360 Developer Edition (Intel i5, 16 GB ram).
 
 ### Software used
-* dask 2.20.0
+* dask 2021.5.1
 * numpy 1.19.5
 * pandas 1.0.5
 * matplotlib 3.2.2
