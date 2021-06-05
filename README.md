@@ -22,5 +22,5 @@ This project's scope will be limited to our two personal laptops: Dell XPS 13 93
 ## To run the Notebook
 1. Store the data file in the same folder as the Notebook
 2. Run the launch.sh file and open up Jupyter Notebook
-3. Open up the Notebook and ensure that Dask and Dask distributed are updated to Dask 2021.05.1
+3. Open up the Notebook and ensure that Dask and Dask distributed are updated to Dask 2021.5.1; we included the code in the Notebook so run that cell!
 4. Run the Notebook
